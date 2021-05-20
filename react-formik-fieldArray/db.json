@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "firstName": "aaaa",
+      "lastName": "ggg",
+      "email": "fsadd@gh.fg",
+      "gender": "Male",
+      "isActive": "Active",
+      "emergencyContact": {
+        "firstName": "ggg",
+        "lastName": "gggg",
+        "email": "phalakjatink1999@gmail.com",
+        "mobileNo": "1234557763456"
+      },
+      "addresses": [
+        {
+          "firstAddress": "asdaxda dfsvdgverg",
+          "secondAddress": "sfwf  wefwf",
+          "city": "zxczf",
+          "state": "dfds",
+          "country": "fdsdf",
+          "zip": "123142"
+        }
+      ],
+      "id": 1
+    }
+  ]
+}

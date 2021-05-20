@@ -1,0 +1,33 @@
+body {
+    margin: 20px;
+    background-color: gainsboro;
+}
+
+.container {
+    background-color: white;
+    border-radius: 2px;
+}
+
+.error {
+    color: red;
+}
+
+form {
+    width: 100%;
+}
+
+.p-10px {
+    padding-top: 10px;
+}
+
+.delete-btn {
+    background-color: rgb(254, 222, 229);
+}
+
+.border {
+    border-width: 2px !important;
+}
+
+hr {
+    border-width: 2px;
+}

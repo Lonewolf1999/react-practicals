@@ -1,0 +1,61 @@
+{
+  "countries": [{
+    "id": 1,
+    "countryName": "India"
+   },
+   {
+    "id": 2,
+    "countryName": "Australia"
+   }],
+
+   "states": [{
+    "id": 1,
+    "stateName": "Gujarat",
+    "countryId": 1
+   },
+   {
+    "id": 2,
+    "stateName": "Delhi",
+    "countryId": 1
+   },
+   {
+    "id": 3,
+    "stateName": "Sydeny",
+    "countryId": 2
+   },
+   {
+    "id": 4,
+    "stateName": "Victoria",
+    "countryId": 2
+   }],
+   "Cities": [{
+    "id": 1,
+    "stateName": "Ahmedabad",
+    "stateId": 1,
+    "countryId": 1
+   },
+   {
+    "id": 2,
+    "stateName": "Vadodara",
+    "stateId": 1,
+    "countryId": 1
+   },
+   {
+    "id": 3,
+    "stateName": "Gurgaon",
+    "stateId": 2,
+    "countryId": 1
+   },
+   {
+    "id": 4,
+    "stateName": "New South Wales",
+    "stateId": 3,
+    "countryId": 2
+   },
+   {
+    "id": 5,
+    "stateName": "Melbourne",
+    "stateId": 4,
+    "countryId": 2
+   }]
+}

@@ -1,0 +1,24 @@
+.addMember{
+    margin: 5px;
+    text-align: right;
+}
+
+.rowBorder {
+    border-top: 2px solid gray;
+    width: 100%;
+}
+
+th {
+    border-top: 1px solid gray;
+    border-bottom: 2px solid gray;
+    text-align: left;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+td {
+    border-top: 1px solid gray;
+    text-align: left;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
